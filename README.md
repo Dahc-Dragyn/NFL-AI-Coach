@@ -1,3 +1,5 @@
+Hey, I am just playing around with this.
+
 NFL AI Coach
 This repository contains an AI-powered NFL coaching assistant that uses OpenAI's language models and LangChain to help make informed play-calling decisions based on a knowledge base of football-related documents. It also answers general queries about football strategy, rules, and analytics.
 
